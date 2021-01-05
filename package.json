@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.14.1",
+    "tiptap": "^1.30.0",
+    "tiptap-extensions": "^1.33.2",
+    "vue": "^2.6.11",
+    "wangeditor": "^4.6.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

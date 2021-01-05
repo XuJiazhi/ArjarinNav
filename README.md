@@ -1,24 +1,11 @@
-# test
+# 一个简陋的支持添加，修改，删除栏目与子栏目的导航栏
 
-## Project setup
-```
-npm install
-```
+## 功能实现逻辑参考 vue 经典案例 todoList
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+本导航栏组件基于 element-ui 自带的导航栏进一步开发，so：
 
-### Lints and fixes files
 ```
-npm run lint
+npm install element-ui
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
